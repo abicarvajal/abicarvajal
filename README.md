@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abicarvajal
 - 👀 I’m interested in tools to development and development in general.
-- 🌱 I’m currently know about Python, Java, .NET, Javascript, Typescript and other tools that I think are important.
+- 🌱 I’m currently know about Python, Java, .NET, Javascript, Typescript & Angular.
 - :telescope: I’m looking to collaborate on innovative projects.
 
 
